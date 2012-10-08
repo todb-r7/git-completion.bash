@@ -1,8 +1,7 @@
 # I found this
 
-Somewhere on the Internet. It was purportedly written by @spearce (Shawn
-O. Pearce), but I looked in his repos for several seconds and didn't see
-it.
+Somewhere on the Internet. It was purportedly written by [@spearce](https://github.com/spearce)
+(aka Shawn O. Pearce), but I looked in his repos for several seconds and didn't see it.
 
 # It's GPL
 
