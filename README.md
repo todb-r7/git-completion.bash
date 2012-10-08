@@ -15,7 +15,7 @@ At least, it is according to the comment docs.
 # Add this to your .bash_aliases
 
 ````bash
-if [ -f ~/git-completion.bash ]; then
-    . ~/git-completion.bash
+if [ -f /path/to/git-completion.bash ]; then
+    . /path/to/git-completion.bash
 fi
 ````
